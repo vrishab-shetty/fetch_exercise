@@ -19,9 +19,9 @@ This is a native Android application built using **Kotlin** and **Jetpack Compos
 
 ## 📱 Screenshots
 
-| Grouped Lists | Expanded View | Error UI | Easter Egg |
-|---------------|---------------|----------|------------|
-| ![screenshot1](screenshots/grouped_list.png) | ![screenshot2](screenshots/expanded_view.png) | ![screenshot3](screenshots/error_ui.png) | ![screenshot4](screenshots/easter_egg.png) |
+| Grouped Lists                                | Expanded View                                 | Error UI                                 | Easter Egg                                 |
+|----------------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------------|
+| ![screenshot1](screenshots/grouped_list.jpg) | ![screenshot2](screenshots/expanded_view.jpg) | ![screenshot3](screenshots/error_ui.jpg) | ![screenshot4](screenshots/easter_egg.jpg) |
 
 ---
 
