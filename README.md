@@ -37,11 +37,6 @@ This is a native Android application built using **Kotlin** and **Jetpack Compos
 
 1. Clone the repo:
 
-   ```bash
-   git clone https://github.com/vrishab-shetty/fetch-mobile-exercise.git
-   cd FetchExcerise
-   ```
-
 2. Open in Android Studio
 
 3. Build and run on emulator or physical device.
