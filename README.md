@@ -29,9 +29,29 @@ This is a native Android application built using **Kotlin** and **Jetpack Compos
 
 ### Requirements
 
-- Android Studio **Giraffe (or later)**
+- Android Studio **Giraffe (or later)** (Developed in Android Studio Narwhal)
 - Android SDK **33+**
 - Kotlin **1.9+**
+
+## 🧩 Dependencies
+
+This project leverages the following libraries:
+
+### Jetpack Compose
+- AndroidX Compose BOM
+- Compose UI, Material 3, Tooling, and Lifecycle integration
+- Lifecycle ViewModel Compose
+
+### Networking
+- Retrofit
+- Gson Converter
+
+### Animation
+- Lottie Compose (Airbnb)
+
+### Testing
+- JUnit
+- Kotlin Coroutines Test
 
 ### Build & Run
 
