@@ -33,9 +33,16 @@ This is a native Android application built using **Kotlin** and **Jetpack Compos
 - Android SDK **33+**
 - Kotlin **1.9+**
 
-## 🧩 Dependencies
+### Build & Run
 
-This project leverages the following libraries:
+1. Clone the repo:
+
+2. Open in Android Studio
+
+3. Build and run on emulator or physical device.
+
+
+## 🧩 Dependencies
 
 ### Jetpack Compose
 - AndroidX Compose BOM
@@ -52,11 +59,3 @@ This project leverages the following libraries:
 ### Testing
 - JUnit
 - Kotlin Coroutines Test
-
-### Build & Run
-
-1. Clone the repo:
-
-2. Open in Android Studio
-
-3. Build and run on emulator or physical device.
